@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.14",
-  "notes": "修复安卓 APP 点拍照没反应：APP 内改为点击当帧同步调起系统相机（原来等 getUserMedia 失败后再触发，手势已失效被 WebView 拦掉）；网页端相机失败会自动释放旧占用并重试一次。",
+  "latest": "1.0.15",
+  "notes": "修复安卓 APP 拍照不生效：APP 内改为点击当帧同步调起系统相机（原先是等 getUserMedia 失败后再点，手势已失效被 WebView 拦下）；手机端回答不再输出 ** 等 Markdown 符号。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.14/Parasite-Setup-1.0.14.exe", "size": 87898907, "sha": "dad46f28da05e7182a4b23e697f346952fa0f170a9e7004c0610a6d755099ecc" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.14/Parasite-v1.0.14.apk", "size": 29142, "sha": "021520008af31f01609f37ebd42aec503dddc0d96b3cb281be88156b0e1810ee" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.14/Parasite-Setup-1.0.14.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.14/Parasite-v1.0.14.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.15/Parasite-Setup-1.0.15.exe", "size": 87888653, "sha": "9b4b2d63d4cd22ff23cac04cc5729a4f304cf4254d3655f5162d62a9229c8578" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.15/Parasite-v1.0.15.apk", "size": 29142, "sha": "1ed840a31625d1c0ea5aabf78c853bb195cf26da3827d87eae523bfbc04e7a91" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.15/Parasite-Setup-1.0.15.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.15/Parasite-v1.0.15.apk" }
 }
