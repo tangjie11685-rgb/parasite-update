@@ -2,7 +2,8 @@
   "latest": "1.0.10",
   "notes": "手机端改为纯对话布局：只留聊天框，隐藏左右五栏，右下角显示 Q 版银月小头像并由它承担口型动画；电脑端仍是写实三维全身银月；新增「文件·此电脑」互传入口。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.10/Parasite-Setup-1.0.10.exe", "size": 87667992, "sha": "774edb09cd423fb54a082bcd3305f6a49fc42ccd01bafe3907dc520ac3cce17e" },
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.10/Parasite-Setup-1.0.10.exe", "size": 87671755, "sha": "5776b46107d33a1383a4746c17679514a52ebd579887aa2e9e5ebbfc16f4a16c" },
   "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.10/Parasite-v1.0.10.apk", "size": 29142, "sha": "cdefa9d7ed0367428a4d7b3794b889ce7d50010a3e2d2407d2fefe19b630d91d" },
   "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.10/Parasite-Setup-1.0.10.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.10/Parasite-v1.0.10.apk" }
 }
+
