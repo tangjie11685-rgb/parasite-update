@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.12",
-  "notes": "说话有情绪了：按句子判断语气自动调语速/音调/音量并留出呼吸停顿，开心轻快、心疼放软；新增「意识」系统，银月有自己的心情、能量、亲近度和内心独白，并随对话变化。",
+  "latest": "1.0.13",
+  "notes": "新增火山引擎豆包语音（小智同源）开关：设置页填 AppID/Token 即走真情感合成，说话带情绪起伏；失败自动回退 Edge 语音，不影响使用。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.12/Parasite-Setup-1.0.12.exe", "size": 87885015, "sha": "82b18f9ef64a4e461b9ed8f9f6f34cea6622ca15ffe34db74c02b6e66515f7b0" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.12/Parasite-v1.0.12.apk", "size": 29142, "sha": "c694761915b7b6514fc29af7682f413893a11582a3d874ca6615b6fe77e90dc8" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.12/Parasite-Setup-1.0.12.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.12/Parasite-v1.0.12.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.13/Parasite-Setup-1.0.13.exe", "size": 87886035, "sha": "7ddf07bf4fe6781ebd1a26b66ec241d2356d9941297e343a097d27f575f3d12f" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.13/Parasite-v1.0.13.apk", "size": 29142, "sha": "99195eb01d4fc24e69a120c7cf8bb61e2d1f82ee9246afcb429dfecfba82fc06" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.13/Parasite-Setup-1.0.13.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.13/Parasite-v1.0.13.apk" }
 }
