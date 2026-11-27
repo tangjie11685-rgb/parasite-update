@@ -1,20 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "published": "2026-11-27",
-  "notes": "语音条改成「音色」下拉框，甜妹/甜妹2/台妹/机车妹/台男等一键切换；默认音色改为甜妹。",
+  "notes": "甜妹改为台湾口音温柔声线：阳光甜妹（默认）、温柔甜妹。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.3/Parasite-Setup-1.0.3.exe",
-    "size": 79221668,
-    "sha": "e57b390625fd69e3820184b7e202b4af00a1bb62e266b8116d8dcbd4387cf934"
-  },
-  "android": {
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.3/Parasite-v1.0.3.apk",
-    "size": 29142,
-    "sha": "8c18823eec8795a640313257e7204d1da97522cc8e74ecbf9bbfb9f68ead26b1"
-  },
-  "mirror": {
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.3/Parasite-Setup-1.0.3.exe",
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.3/Parasite-v1.0.3.apk"
-  }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.4/Parasite-Setup-1.0.4.exe", "size": 79219443, "sha": "611787fa001a2f91ae96d58519b8eb11979c33df9c82e5434ff8ad6c3ac62e4a" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.4/Parasite-v1.0.4.apk", "size": 29142, "sha": "06403a012769ebb782ce543585ed38d3b4826eb015293e8061d0c7e166aa2667" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.4/Parasite-Setup-1.0.4.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.4/Parasite-v1.0.4.apk" }
 }
