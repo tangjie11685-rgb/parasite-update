@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.9",
-  "notes": "银月换成写实三维全身立绘并替换原绿球；说话时右上角近景小窗嘴型跟随语音实时动；新增「银月（清冷）」音色并设为默认。",
+  "latest": "1.0.10",
+  "notes": "手机端改为纯对话布局：只留聊天框，隐藏左右五栏，右下角显示 Q 版银月小头像并由它承担口型动画；电脑端仍是写实三维全身银月；新增「文件·此电脑」互传入口。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.9/Parasite-Setup-1.0.9.exe", "size": 87008816, "sha": "c3f9023f06d6f52558de324268640e6afbd8cdc94bd536593fcc97fef42ed3ff" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.9/Parasite-v1.0.9.apk", "size": 29142, "sha": "acefefab8256781add1434525da7e0984cfc3ff7358a29c886520705f4bf63c4" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.9/Parasite-Setup-1.0.9.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.9/Parasite-v1.0.9.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.10/Parasite-Setup-1.0.10.exe", "size": 87667992, "sha": "774edb09cd423fb54a082bcd3305f6a49fc42ccd01bafe3907dc520ac3cce17e" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.10/Parasite-v1.0.10.apk", "size": 29142, "sha": "cdefa9d7ed0367428a4d7b3794b889ce7d50010a3e2d2407d2fefe19b630d91d" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.10/Parasite-Setup-1.0.10.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.10/Parasite-v1.0.10.apk" }
 }
