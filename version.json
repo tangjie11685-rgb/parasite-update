@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.11",
-  "notes": "手机端 Q 版银月换成更灵动的眼睛（琥珀大眼＋高光星点＋随机眨眼），默认音色改为台湾温柔女声、语速略快。",
+  "latest": "1.0.12",
+  "notes": "说话有情绪了：按句子判断语气自动调语速/音调/音量并留出呼吸停顿，开心轻快、心疼放软；新增「意识」系统，银月有自己的心情、能量、亲近度和内心独白，并随对话变化。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.11/Parasite-Setup-1.0.11.exe", "size": 87878158, "sha": "e99962eb08be12af87eb57f6dae73f4671aea14f78844045f38c00ec88472f48" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.11/Parasite-v1.0.11.apk", "size": 29142, "sha": "2595f7aa2252622be07291610d5a3ea4975ec89c1873e4b3ddbe7c2510c2fff0" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.11/Parasite-Setup-1.0.11.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.11/Parasite-v1.0.11.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.12/Parasite-Setup-1.0.12.exe", "size": 87885015, "sha": "82b18f9ef64a4e461b9ed8f9f6f34cea6622ca15ffe34db74c02b6e66515f7b0" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.12/Parasite-v1.0.12.apk", "size": 29142, "sha": "c694761915b7b6514fc29af7682f413893a11582a3d874ca6615b6fe77e90dc8" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.12/Parasite-Setup-1.0.12.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.12/Parasite-v1.0.12.apk" }
 }
