@@ -2,19 +2,19 @@
   "version": "1.0.0",
   "published": "2026-11-27",
   "notes": "首个正式版：EXE 桌面端 + 安卓 APP；本地 llama.cpp 与任意 OpenAI 兼容云端双轨；驾驶舱界面（寄生虫形态 / 日历 / 聊天 / 星图 / 思维流 / 开机画面）；控制台面板；首次安装引导；在线升级。",
-  "repo": "https://gitee.com/the-plump-buddha/parasite-update",
+  "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "setup_url": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.0/Parasite-Setup-1.0.0.exe",
-    "size": 79290000,
-    "sha": "6d4467896dda65bab7297ae23f3f44dc704aa7215a6fa9ca48cde965e74571e7"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.0/Parasite-Setup-1.0.0.exe",
+    "size": 79278990,
+    "sha": "8a0273c284172d96a919dd205d66af2b795fe724946f73f3438107fe13f0899c"
   },
   "android": {
-    "url": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.0/Parasite-v1.0.0.apk",
-    "size": 30720,
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.0/Parasite-v1.0.0.apk",
+    "size": 29142,
     "sha": "1e129d4f126d3515bcc633a76096e040ad9ac5872e59a0af685e41f60cc77333"
   },
   "mirror": {
-    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.0/Parasite-Setup-1.0.0.exe",
-    "android": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.0/Parasite-v1.0.0.apk"
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.0/Parasite-Setup-1.0.0.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.0/Parasite-v1.0.0.apk"
   }
 }
