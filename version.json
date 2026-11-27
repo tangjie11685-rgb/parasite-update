@@ -4,13 +4,13 @@
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
     "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.16/Parasite-Setup-1.0.16.exe",
-    "size": 87905982,
-    "sha": "423eaa49d7766b0dbcc20413d24ff23fd781c80a694cc1086f0b4f1ab23ad1a8"
+    "size": 87901336,
+    "sha": "e5720958617cd13e0ee0a5410ef13546c601fd235bb747c37b617080825af713"
   },
   "android": {
     "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.16/Parasite-v1.0.16.apk",
-    "size": 37334,
-    "sha": "e2d4821920a1ca712a0c1e61433b250a865f330c6262e2b1cf3950d75e2e5588"
+    "size": 41430,
+    "sha": "632d368bd140692eb3959fe269a12ddb7efbb93a9c9798fcbd10c507b06811b9"
   },
   "mirror": {
     "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.16/Parasite-Setup-1.0.16.exe",
