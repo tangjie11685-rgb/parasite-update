@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.7",
-  "notes": "修复手机端录音：APP 自动改用 HTTPS(8443)，安卓终于能拿麦克风，实时对话可用；文件互传页显示 ZeroTier 地址 10.90.118.127，跨网络也能手机电脑互传。",
+  "latest": "1.0.8",
+  "notes": "新增虚拟形象「银月」立绘：说话时跟随语音实时对口型；新增程序内相机（窗口内实时预览直接拍），补上安卓相机权限、选图/拍照选择器，文件页上传也能选文件。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.7/Parasite-Setup-1.0.7.exe", "size": 79236951, "sha": "9988177a896902933bd107d9595231c93df7231d8fb3d51fdcafacab4e0ebc80" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.7/Parasite-v1.0.7.apk", "size": 29142, "sha": "74e10fb3417ce438ce3550a479add6e2ff4231776ea8623ad44976300294edcb" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.7/Parasite-Setup-1.0.7.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.7/Parasite-v1.0.7.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.8/Parasite-Setup-1.0.8.exe", "size": 81203066, "sha": "825be896d39c38c5937a71907de36517f4a348452221616b381368689302ebec" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.8/Parasite-v1.0.8.apk", "size": 29142, "sha": "146f336fd65024541f54a3545be28f1cff6e00b48ede1c1a00cee05baec70678" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.8/Parasite-Setup-1.0.8.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.8/Parasite-v1.0.8.apk" }
 }
