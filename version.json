@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.13",
-  "notes": "新增火山引擎豆包语音（小智同源）开关：设置页填 AppID/Token 即走真情感合成，说话带情绪起伏；失败自动回退 Edge 语音，不影响使用。",
+  "latest": "1.0.14",
+  "notes": "修复安卓 APP 点拍照没反应：APP 内改为点击当帧同步调起系统相机（原来等 getUserMedia 失败后再触发，手势已失效被 WebView 拦掉）；网页端相机失败会自动释放旧占用并重试一次。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.13/Parasite-Setup-1.0.13.exe", "size": 87886035, "sha": "7ddf07bf4fe6781ebd1a26b66ec241d2356d9941297e343a097d27f575f3d12f" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.13/Parasite-v1.0.13.apk", "size": 29142, "sha": "99195eb01d4fc24e69a120c7cf8bb61e2d1f82ee9246afcb429dfecfba82fc06" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.13/Parasite-Setup-1.0.13.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.13/Parasite-v1.0.13.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.14/Parasite-Setup-1.0.14.exe", "size": 87898907, "sha": "dad46f28da05e7182a4b23e697f346952fa0f170a9e7004c0610a6d755099ecc" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.14/Parasite-v1.0.14.apk", "size": 29142, "sha": "021520008af31f01609f37ebd42aec503dddc0d96b3cb281be88156b0e1810ee" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.14/Parasite-Setup-1.0.14.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.14/Parasite-v1.0.14.apk" }
 }
