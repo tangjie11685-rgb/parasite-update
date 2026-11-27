@@ -13,7 +13,7 @@
     "sha": "2c0fc429427ced55a91c0284ee36ff8bb53ca1aeaf444cbc1852cfc9ca627812"
   },
   "mirror": {
-    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.17/Parasite-Setup-1.0.17.exe",
-    "android": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.17/Parasite-v1.0.17.apk"
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.17/Parasite-Setup-1.0.17.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.17/Parasite-v1.0.17.apk"
   }
 }
