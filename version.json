@@ -1,9 +1,9 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "published": "2026-11-27",
-  "notes": "甜妹改为台湾口音温柔声线：阳光甜妹（默认）、温柔甜妹。",
+  "notes": "新增文件管理：浏览所有磁盘、上传/下载/改名/删除；手机浏览器打开电脑地址的 /files 即可互传；支持 ZeroTier 虚拟网跨网络访问。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.4/Parasite-Setup-1.0.4.exe", "size": 79219443, "sha": "611787fa001a2f91ae96d58519b8eb11979c33df9c82e5434ff8ad6c3ac62e4a" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.4/Parasite-v1.0.4.apk", "size": 29142, "sha": "06403a012769ebb782ce543585ed38d3b4826eb015293e8061d0c7e166aa2667" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.4/Parasite-Setup-1.0.4.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.4/Parasite-v1.0.4.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.5/Parasite-Setup-1.0.5.exe", "size": 79231688, "sha": "183ce93973e4a136d225618254f5c753ed436f481c62f6bc56fa9defe9cc97ec" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.5/Parasite-v1.0.5.apk", "size": 29142, "sha": "310214eac5332c789b02dee9f8bb13e9782fde0174f20ffa23df1a1ecc1ae089" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.5/Parasite-Setup-1.0.5.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.5/Parasite-v1.0.5.apk" }
 }
