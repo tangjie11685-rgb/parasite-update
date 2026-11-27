@@ -1,20 +1,20 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "published": "2026-11-27",
-  "notes": "稳定性修复：守护进程自动拉起，界面崩溃不再整只消失；移除托盘（崩溃元凶）；关窗口只隐藏、服务继续跑；新增台湾腔音色（台妹/机车妹/台男），默认机车妹。",
+  "notes": "新增阳光甜妹音色：甜妹（阳光活泼）、甜妹2（温柔甜糯）。稳定性修复同 1.0.1。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.1/Parasite-Setup-1.0.1.exe",
-    "size": 79215387,
-    "sha": "1af1db56f5777cff316f287b98887615dc83034c7ea59313fa74f8c94674466a"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.2/Parasite-Setup-1.0.2.exe",
+    "size": 79224029,
+    "sha": "0c0b7352f3751a235327078b1b7947009db085765760ae9b95e05b3f52a7458d"
   },
   "android": {
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.1/Parasite-v1.0.1.apk",
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.2/Parasite-v1.0.2.apk",
     "size": 29142,
-    "sha": "9d9e9958d21eb552a29cd063a5fce6f32c7abebf34f8b7902d779595a7d5009a"
+    "sha": "22ac0e47b44e771a5be6d13c99ac206e41fcf588351252869c46bb1271b5597f"
   },
   "mirror": {
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.1/Parasite-Setup-1.0.1.exe",
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.1/Parasite-v1.0.1.apk"
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.2/Parasite-Setup-1.0.2.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.2/Parasite-v1.0.2.apk"
   }
 }
