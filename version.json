@@ -1,8 +1,19 @@
 {
-  "latest": "1.0.15",
-  "notes": "修复安卓 APP 拍照不生效：APP 内改为点击当帧同步调起系统相机（原先是等 getUserMedia 失败后再点，手势已失效被 WebView 拦下）；手机端回答不再输出 ** 等 Markdown 符号。",
+  "latest": "1.0.16",
+  "notes": "界面变聪明了：右栏各区域不再固定，按对话内容自动重排、展开、隐退；新增「现场 · LIVE」卡实时显示最近抓到的网页/文件/屏幕结果；窗口变窄时左右两侧自动收窄让位给对话；手机端 Q 版头像会自动躲开你正在看的那一侧、录音与键盘弹起时自动换位缩身，长按可拖到任意位置、双击复位。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.15/Parasite-Setup-1.0.15.exe", "size": 87888653, "sha": "9b4b2d63d4cd22ff23cac04cc5729a4f304cf4254d3655f5162d62a9229c8578" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.15/Parasite-v1.0.15.apk", "size": 29142, "sha": "1ed840a31625d1c0ea5aabf78c853bb195cf26da3827d87eae523bfbc04e7a91" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.15/Parasite-Setup-1.0.15.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.15/Parasite-v1.0.15.apk" }
+  "win": {
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.16/Parasite-Setup-1.0.16.exe",
+    "size": 87905982,
+    "sha": "423eaa49d7766b0dbcc20413d24ff23fd781c80a694cc1086f0b4f1ab23ad1a8"
+  },
+  "android": {
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.16/Parasite-v1.0.16.apk",
+    "size": 37334,
+    "sha": "e2d4821920a1ca712a0c1e61433b250a865f330c6262e2b1cf3950d75e2e5588"
+  },
+  "mirror": {
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.16/Parasite-Setup-1.0.16.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.16/Parasite-v1.0.16.apk"
+  }
 }
