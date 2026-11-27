@@ -1,8 +1,8 @@
 {
-  "latest": "1.0.8",
-  "notes": "新增虚拟形象「银月」立绘：说话时跟随语音实时对口型；新增程序内相机（窗口内实时预览直接拍），补上安卓相机权限、选图/拍照选择器，文件页上传也能选文件。",
+  "latest": "1.0.9",
+  "notes": "银月换成写实三维全身立绘并替换原绿球；说话时右上角近景小窗嘴型跟随语音实时动；新增「银月（清冷）」音色并设为默认。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.8/Parasite-Setup-1.0.8.exe", "size": 81203066, "sha": "825be896d39c38c5937a71907de36517f4a348452221616b381368689302ebec" },
-  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.8/Parasite-v1.0.8.apk", "size": 29142, "sha": "146f336fd65024541f54a3545be28f1cff6e00b48ede1c1a00cee05baec70678" },
-  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.8/Parasite-Setup-1.0.8.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.8/Parasite-v1.0.8.apk" }
+  "win": { "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.9/Parasite-Setup-1.0.9.exe", "size": 87008816, "sha": "c3f9023f06d6f52558de324268640e6afbd8cdc94bd536593fcc97fef42ed3ff" },
+  "android": { "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.9/Parasite-v1.0.9.apk", "size": 29142, "sha": "acefefab8256781add1434525da7e0984cfc3ff7358a29c886520705f4bf63c4" },
+  "mirror": { "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.9/Parasite-Setup-1.0.9.exe", "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.9/Parasite-v1.0.9.apk" }
 }
