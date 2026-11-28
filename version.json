@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.31",
+  "latest": "1.0.32",
   "notes": "1) 语音节奏更利落：句子内部超过 140 毫秒的静音会被压到 140ms 以内，标点后的「顿一下」明显变短。2) 默认语速从 1.05 提到 1.18，说话更快更自然。3) 停顿长度和语速都可以自己调：config.json 的 clone_pause_ms（默认 140，越小越紧）和 clone_speed（默认 1.18，越大越快）。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.31/Parasite-Setup-1.0.31.exe",
-    "size": 89767977,
-    "sha": "ff2cc9a29fae0cc8dca595afc666017da83010ff97545a2554d45c96572abff8"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.32/Parasite-Setup-1.0.32.exe",
+    "size": 89768594,
+    "sha": "fd9be372d3402929afaa781311c2b50baca639fb2efbd75dc35e286a57d64431"
   },
   "android": {
     "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-v1.0.29.apk",
@@ -13,7 +13,8 @@
     "sha": "739e5f2a80e7b2ee44049075eb18d650d44e3a64ac02491cb5fe5c78f86eb39a"
   },
   "mirror": {
-    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.31/Parasite-Setup-1.0.31.exe",
+    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.32/Parasite-Setup-1.0.32.exe",
     "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.29/Parasite-v1.0.29.apk"
   }
 }
+
