@@ -1,19 +1,13 @@
 {
-  "latest": "1.0.99",
-  "notes": "自更新链路测试（临时）",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
+  "notes": "自更新链路测试",
   "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.24/Parasite-Setup-1.0.24.exe",
-    "size": 87907936,
-    "sha": "453fbcf1608fb3776be59bbebe1627c55d7d25507d2dace0bb5c9dfcd5d2a696"
-  },
-  "android": {
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.24/Parasite-v1.0.24.apk",
-    "size": 37334,
-    "sha": "5eb32afde158a6874877e297cf4ce987cc804b4f873abf47707da1ea53a74580"
+    "size": 87901450,
+    "sha": "6c504871c631945aac56b89e0d88bc4f3ebfb8a7545e3a5c08a33a65fa76df64",
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.25/Parasite-Setup-1.0.25.exe"
   },
   "mirror": {
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.24/Parasite-Setup-1.0.24.exe",
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.24/Parasite-v1.0.24.apk"
-  }
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.25/Parasite-Setup-1.0.25.exe"
+  },
+  "latest": "1.0.99"
 }
