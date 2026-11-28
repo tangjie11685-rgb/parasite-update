@@ -1,11 +1,11 @@
 {
   "latest": "1.0.29",
-  "notes": "1) 桌面萌宠改成无边框的 3D 小银月：没有标题栏、没有最大/最小化按钮，点它才展开完整工作界面。2) 手机端萌宠同款 3D 形象；平时只在角落，点一下先弹出小聊天卡（不铺满屏），再点才全屏展开，看图/相册时自动展开。3) 手机连不上电脑时不再黑屏，显示说明和重试按钮；页面初始化卡住也有兜底不再全黑。",
+  "notes": "1) 银月换成你要的银发狐耳形象（3D 手办感），桌面上只有她本人，没有标题栏和按钮。2) 她会呼吸、蹦、转身（切侧身立绘）、跳舞、无聊叹气，头顶气泡碎碎念，是个话痨；你让她干活时她改成认真汇报的姿势和台词。3) 主界面角落也有同一个她，同样会动会说话。4) 手机端仍是小聊天卡模式，不再黑屏。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
     "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-Setup-1.0.29.exe",
-    "size": 88360362,
-    "sha": "deb224e787149e50ce5760e3101546f754cc07c7f658e6f28dc5b6394c283e15"
+    "size": 89301638,
+    "sha": "a3021a0dc4119853323f4ab68deecf40fa10bbacb794b011315ab0e32577dd37"
   },
   "android": {
     "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-v1.0.29.apk",
