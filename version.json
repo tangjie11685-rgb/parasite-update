@@ -13,7 +13,7 @@
     "sha": "4f07319ea5059e22b4a86dc20a807f3fedbd131107183b198024784b53c556e2"
   },
   "mirror": {
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.28/Parasite-Setup-1.0.28.exe",
+    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.28/Parasite-Setup-1.0.28.exe",
     "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.28/Parasite-v1.0.28.apk"
   }
 }
