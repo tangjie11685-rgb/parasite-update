@@ -1,19 +1,19 @@
 {
-  "latest": "1.0.28",
-  "notes": "1) 桌面萌宠模式：空闲时窗口缩成右下角小银月（会呼吸、眨眼、眼睛乱动），点一下展开完整工作界面；启动即萌宠态，可在菜单里切换。2) 手机 APP 新增相册直读：点「手机相册」直接看最近照片/视频缩略图，说「看第3张照片」也能直接打开，不用先发文件。3) 选择照片/视频上传支持混合多选（image/*+video/*）。4) 新增 /pet 页与 /api/pet/mode 萌宠开关接口。",
+  "latest": "1.0.29",
+  "notes": "1) 桌面萌宠改成无边框的 3D 小银月：没有标题栏、没有最大/最小化按钮，点它才展开完整工作界面。2) 手机端萌宠同款 3D 形象；平时只在角落，点一下先弹出小聊天卡（不铺满屏），再点才全屏展开，看图/相册时自动展开。3) 手机连不上电脑时不再黑屏，显示说明和重试按钮；页面初始化卡住也有兜底不再全黑。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.28/Parasite-Setup-1.0.28.exe",
-    "size": 87913366,
-    "sha": "9ccf9351d607c453c6a7585e8d2201f9f71be2d6550f405f5bb013aae97c5bd4"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-Setup-1.0.29.exe",
+    "size": 88355798,
+    "sha": "b204cdf80b6b67d8919619992fa8ec2ba17b9bd7d6e1c71660d2b4bcd5608c6e"
   },
   "android": {
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.28/Parasite-v1.0.28.apk",
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-v1.0.29.apk",
     "size": 41430,
-    "sha": "4f07319ea5059e22b4a86dc20a807f3fedbd131107183b198024784b53c556e2"
+    "sha": "739e5f2a80e7b2ee44049075eb18d650d44e3a64ac02491cb5fe5c78f86eb39a"
   },
   "mirror": {
-    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.28/Parasite-Setup-1.0.28.exe",
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.28/Parasite-v1.0.28.apk"
+    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-Setup-1.0.29.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.29/Parasite-v1.0.29.apk"
   }
 }
