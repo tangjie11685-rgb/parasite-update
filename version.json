@@ -1,19 +1,19 @@
 {
-  "android": {
-    "sha": "33eb98cf3c88ebefb24e83e81cc6c52731abbcc44ff7b3991c0556e7a4e88f07",
-    "size": 37334,
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.25/Parasite-v1.0.25.apk"
-  },
   "win": {
-    "sha": "6c504871c631945aac56b89e0d88bc4f3ebfb8a7545e3a5c08a33a65fa76df64",
-    "size": 87901450,
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.25/Parasite-Setup-1.0.25.exe"
+    "sha": "5533bcf573ff4ff1f482d6479f4a9f30275e13ebf171687106bb6d5f7c48887b",
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.27/Parasite-Setup-1.0.27.exe",
+    "size": 87918716
   },
-  "notes": "在线更新修好：1 去掉浏览器确认框（点了没反应就是它）；2 下载时实时显示百分比和已下载 MB；3 修掉“下载完却没装上”——升级脚本改由计划任务脱离进程树执行，且修正了任务命令行引号写法；4 全过程写 update\\apply.log，出问题能查；5 设置页「模型与升级」里也有版本号和检查更新按钮",
+  "notes": "现在能发照片和视频了：1 加号里的「拍照 / 发照片·视频」可一次选多张照片或一段视频；2 视频在客户端按时间顺序抽 6 帧再交给模型，按顺序讲画面发生了什么；3 新增 /api/vision_multi 多图一起理解接口；4 安卓选择器支持 image/*,video/* 混合类型；5 识图回复自动去掉 markdown 符号，念出来也干净",
+  "latest": "1.0.27",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "latest": "1.0.25",
+  "android": {
+    "sha": "2c3986eeb5955204c0c08461399fcd606f3593a80292cdadf30f7cca3d1d66ad",
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.27/Parasite-v1.0.27.apk",
+    "size": 37334
+  },
   "mirror": {
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.25/Parasite-v1.0.25.apk",
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.25/Parasite-Setup-1.0.25.exe"
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.27/Parasite-v1.0.27.apk",
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.27/Parasite-Setup-1.0.27.exe"
   }
 }
