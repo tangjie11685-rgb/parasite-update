@@ -1,19 +1,19 @@
 {
-  "latest": "1.0.18",
-  "notes": "1 修复开机页卡死：脚本早期引用了尚未定义函数导致整段初始化中断，现已修复并加超时/兜底，服务没就绪也会自动进主界面；2 新增前端错误角标，脚本异常会直接显示在左下角；3 其余与 1.0.17 相同（原生拍照、传感器/海拔/定位/应用启动、启动页银月头像）",
+  "latest": "1.0.21",
+  "notes": "1 修好联网搜索（Bing 通道失效导致全是无关结果），改用 360/百度多引擎兜底；2 新增 bili_search：直接读 B 站番剧卡片，「更新到第几集」一句话答准；3 银月改为任务型行为：下达任务直接做完再汇报，不再反问「要不要我…」，缺信息自己查自己定；4 工具结果里没有的数字不许编（不再瞎猜总集数）；5 保留 1.0.18 的开机页修复",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.18/Parasite-Setup-1.0.18.exe",
-    "size": 87897016,
-    "sha": "e9bc086921fcac8e2e199e0b168125de25f312511ec0b960b59bdce39e7505c0"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.21/Parasite-Setup-1.0.21.exe",
+    "size": 87908804,
+    "sha": "127c1e92d693030cd9c866e79fdf494e837be569cc79d6ba2d39143d00b1b7d2"
   },
   "android": {
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.18/Parasite-v1.0.18.apk",
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.21/Parasite-v1.0.21.apk",
     "size": 37334,
-    "sha": "48eac5a92eee91ee2ac2a4d7c872a844b5e3526611c393438a4f14560bd4a9ee"
+    "sha": "bb565d114326e756fe341666b7250a12f8c342616de5162ef9eb096f1681cdb4"
   },
   "mirror": {
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.18/Parasite-Setup-1.0.18.exe",
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.18/Parasite-v1.0.18.apk"
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.21/Parasite-Setup-1.0.21.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.21/Parasite-v1.0.21.apk"
   }
 }
