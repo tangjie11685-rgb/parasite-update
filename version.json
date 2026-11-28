@@ -1,19 +1,19 @@
 {
-  "win": {
-    "sha": "5533bcf573ff4ff1f482d6479f4a9f30275e13ebf171687106bb6d5f7c48887b",
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.27/Parasite-Setup-1.0.27.exe",
-    "size": 87918716
-  },
-  "notes": "现在能发照片和视频了：1 加号里的「拍照 / 发照片·视频」可一次选多张照片或一段视频；2 视频在客户端按时间顺序抽 6 帧再交给模型，按顺序讲画面发生了什么；3 新增 /api/vision_multi 多图一起理解接口；4 安卓选择器支持 image/*,video/* 混合类型；5 识图回复自动去掉 markdown 符号，念出来也干净",
-  "latest": "1.0.27",
+  "latest": "1.0.28",
+  "notes": "1) 桌面萌宠模式：空闲时窗口缩成右下角小银月（会呼吸、眨眼、眼睛乱动），点一下展开完整工作界面；启动即萌宠态，可在菜单里切换。2) 手机 APP 新增相册直读：点「手机相册」直接看最近照片/视频缩略图，说「看第3张照片」也能直接打开，不用先发文件。3) 选择照片/视频上传支持混合多选（image/*+video/*）。4) 新增 /pet 页与 /api/pet/mode 萌宠开关接口。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
+  "win": {
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.28/Parasite-Setup-1.0.28.exe",
+    "size": 87913366,
+    "sha": "9ccf9351d607c453c6a7585e8d2201f9f71be2d6550f405f5bb013aae97c5bd4"
+  },
   "android": {
-    "sha": "2c3986eeb5955204c0c08461399fcd606f3593a80292cdadf30f7cca3d1d66ad",
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.27/Parasite-v1.0.27.apk",
-    "size": 37334
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.28/Parasite-v1.0.28.apk",
+    "size": 41430,
+    "sha": "4f07319ea5059e22b4a86dc20a807f3fedbd131107183b198024784b53c556e2"
   },
   "mirror": {
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.27/Parasite-v1.0.27.apk",
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.27/Parasite-Setup-1.0.27.exe"
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.28/Parasite-Setup-1.0.28.exe",
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.28/Parasite-v1.0.28.apk"
   }
 }
