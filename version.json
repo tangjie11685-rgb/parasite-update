@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.29",
-  "notes": "1) 银月换成你要的银发狐耳形象（3D 手办感），桌面上只有她本人，没有标题栏和按钮。2) 她会呼吸、蹦、转身（切侧身立绘）、跳舞、无聊叹气，头顶气泡碎碎念，是个话痨；你让她干活时她改成认真汇报的姿势和台词。3) 主界面角落也有同一个她，同样会动会说话。4) 手机端仍是小聊天卡模式，不再黑屏。",
+  "latest": "1.0.30",
+  "notes": "1) 银月有了自己的本地专属嗓音：本机跑 GPT-SoVITS 克隆音色，5 秒改写参考音色，说话不再像机器人。2) 修掉「一个标点停半秒」的毛病：多余的逗号、省略号、连续句号会被压掉，句子按语义切短再合成，语速可调（默认略快）。3) 语音链路自动接管：本地克隆服务没起来时，程序会自己把它拉起来（端口 9880），真要失败才回落云端音色，不会再哑掉。4) 声音文件是 wav，前端直接播，手机端一样。",
   "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-Setup-1.0.29.exe",
-    "size": 89300616,
-    "sha": "d3deab240f78235a06f550b92d61ddc086554ef18225dca4894e271f93160010"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.30/Parasite-Setup-1.0.30.exe",
+    "size": 89318579,
+    "sha": "54fe71dbb62f20debfa5b10b6eab592e1a6073a6c188bd120cb420bd2a021eaf"
   },
   "android": {
     "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-v1.0.29.apk",
@@ -13,7 +13,7 @@
     "sha": "739e5f2a80e7b2ee44049075eb18d650d44e3a64ac02491cb5fe5c78f86eb39a"
   },
   "mirror": {
-    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.29/Parasite-Setup-1.0.29.exe",
+    "win": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.30/Parasite-Setup-1.0.30.exe",
     "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/1.0.29/Parasite-v1.0.29.apk"
   }
 }
