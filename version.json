@@ -1,19 +1,19 @@
 {
-  "latest": "1.0.22",
+  "latest": "1.0.23",
+  "repo": "https://github.com/tangjie11685-rgb/parasite-update",
   "win": {
-    "sha": "97e6c312710e05a10700ab986055f16f83332453ec811952a09f78db3d91d4d1",
-    "size": 87913350,
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.22/Parasite-Setup-1.0.22.exe"
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.23/Parasite-Setup-1.0.23.exe",
+    "size": 87915110,
+    "sha": "22a4cbc3288621f3e34bd3c5023311bd313081179ce39b80ccfefa88236f8b2e"
+  },
+  "mirror": {
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.23/Parasite-v1.0.23.apk",
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.23/Parasite-Setup-1.0.23.exe"
   },
   "android": {
-    "sha": "3c292643f856209506ee88e1f2ceebc17b2a76c1b22022b024787b3aaaa80748",
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.22/Parasite-v1.0.22.apk",
-    "size": 37334
+    "size": 37334,
+    "sha": "9bd4afdd275c604b2a3461af8b8a9bdb405cfe195e9c299a1e085fd6fb289608",
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.23/Parasite-v1.0.23.apk"
   },
-  "notes": "1 手机拍照专项：新增「🔎 相机自检」按钮，一点就把真实原因（APP版本/机型/是否https/网页相机/相机权限/系统相机入口数/硬件相机）打在聊天里，不用再猜；2 APP 内优先用自带相机预览（不依赖系统相机App），失败再走原生，再退相册；3 部分 ROM 不认指定保存路径时自动切兼容模式（返回较小照片）仍能拍到；4 服务端记录手机 UA（clients.log），可核实手机装的是哪个版本；5 保留 1.0.21 的搜索修复与任务型行为",
-  "mirror": {
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.22/Parasite-v1.0.22.apk",
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.22/Parasite-Setup-1.0.22.exe"
-  },
-  "repo": "https://github.com/tangjie11685-rgb/parasite-update"
+  "notes": "在线更新修复：点「检查更新」不再需要浏览器确认框（装了没反应就是它），改为直接下载并实时显示百分比进度；新增 /api/update/progress 进度接口；设置页「设置模型与升级」里加了版本号 + 检查并更新按钮；下载失败自动换备用源，失败时给出可直接手动下载的包地址"
 }
