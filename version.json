@@ -1,19 +1,19 @@
 {
-  "latest": "1.0.23",
-  "repo": "https://github.com/tangjie11685-rgb/parasite-update",
-  "win": {
-    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.23/Parasite-Setup-1.0.23.exe",
-    "size": 87915110,
-    "sha": "22a4cbc3288621f3e34bd3c5023311bd313081179ce39b80ccfefa88236f8b2e"
-  },
   "mirror": {
-    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.23/Parasite-v1.0.23.apk",
-    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.23/Parasite-Setup-1.0.23.exe"
+    "android": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.24/Parasite-v1.0.24.apk",
+    "win": "https://gitee.com/the-plump-buddha/parasite-update/releases/download/v1.0.24/Parasite-Setup-1.0.24.exe"
   },
   "android": {
     "size": 37334,
-    "sha": "9bd4afdd275c604b2a3461af8b8a9bdb405cfe195e9c299a1e085fd6fb289608",
-    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.23/Parasite-v1.0.23.apk"
+    "sha": "5eb32afde158a6874877e297cf4ce987cc804b4f873abf47707da1ea53a74580",
+    "url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.24/Parasite-v1.0.24.apk"
   },
-  "notes": "在线更新修复：点「检查更新」不再需要浏览器确认框（装了没反应就是它），改为直接下载并实时显示百分比进度；新增 /api/update/progress 进度接口；设置页「设置模型与升级」里加了版本号 + 检查并更新按钮；下载失败自动换备用源，失败时给出可直接手动下载的包地址"
+  "win": {
+    "size": 87907936,
+    "sha": "453fbcf1608fb3776be59bbebe1627c55d7d25507d2dace0bb5c9dfcd5d2a696",
+    "setup_url": "https://github.com/tangjie11685-rgb/parasite-update/releases/download/v1.0.24/Parasite-Setup-1.0.24.exe"
+  },
+  "notes": "在线更新彻底修好：1 去掉浏览器确认框（装了没反应就是它）；2 进度实时显示百分比；3 修掉“下载完了没装上”——升级脚本改由计划任务脱离进程树执行，避免程序退出时把它一起杀掉；4 升级全过程写 apply.log，失败可查；5 设置页也加了版本号+检查并更新按钮",
+  "repo": "https://github.com/tangjie11685-rgb/parasite-update",
+  "latest": "1.0.24"
 }
